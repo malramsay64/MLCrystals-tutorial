@@ -1,0 +1,9 @@
+name: MLCrystals
+channels:
+    - defaults
+    - conda-forge
+    - glotzer
+    - malramsay
+dependencies:
+    - statdyn=0.3.17
+    - jupyter

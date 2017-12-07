@@ -1,10 +1,15 @@
 Machine Learning with Molecular Crystals
 ========================================
 
+
 This is a set of notebooks that detail how
 machine learning can be used in the detection of 2D molecular crystals.
 This work stems from research I am conducting as part of my PhD,
 studying the crystal formation of these molecules.
+
+To get started quickly click the badge below.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/malramsay64/MLCrystals-tutorial/master?filepath=01_Data_Ingest.ipynb)
 
 
 ### Environment Setup

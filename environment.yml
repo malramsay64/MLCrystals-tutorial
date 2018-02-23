@@ -4,7 +4,7 @@ channels:
 dependencies:
     - jupyter
     - matplotlib
+    - numpy
+    - cython
     - pip:
-      - numpy
-      - cython
-      - sdanalysis==0.4.7
+      - sdanalysis==0.4.8

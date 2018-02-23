@@ -5,4 +5,4 @@ dependencies:
     - jupyter
     - matplotlib
     - pip:
-      - sdanalysis==0.4.6
+      - sdanalysis==0.4.7

@@ -1,10 +1,8 @@
 name: MLCrystals
 channels:
     - defaults
-    - conda-forge
-    - glotzer
-    - malramsay
 dependencies:
-    - statdyn=0.3.18
     - jupyter
     - matplotlib
+    - pip:
+      - sdanalysis==0.4.6

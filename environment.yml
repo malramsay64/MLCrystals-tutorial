@@ -5,4 +5,6 @@ dependencies:
     - jupyter
     - matplotlib
     - pip:
+      - numpy
+      - cython
       - sdanalysis==0.4.7

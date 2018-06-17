@@ -2,6 +2,10 @@ Machine Learning with Molecular Crystals
 ========================================
 
 
+[![DOI](https://zenodo.org/badge/113259999.svg)](https://zenodo.org/badge/latestdoi/113259999)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/malramsay64/MLCrystals-tutorial/master?filepath=01_Data_Ingest.ipynb)
+
+
 This is a set of notebooks that detail how
 machine learning can be used in the detection of 2D molecular crystals.
 This work stems from research I am conducting as part of my PhD,

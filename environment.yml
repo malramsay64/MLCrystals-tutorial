@@ -6,5 +6,4 @@ dependencies:
     - matplotlib
     - numpy
     - cython
-    - pip:
-      - sdanalysis==0.4.8
+    - malramsay::sdanalysis=0.4.8

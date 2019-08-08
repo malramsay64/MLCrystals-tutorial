@@ -34,7 +34,7 @@ It is also highly likely to be impossible to install on Windows.
 
 To run the notebook you need to be in the `MLCrystals` environment
 
-    source activate MLCrystals
+    source activate MLCrystals-tutorial
 
 from which you can launch the jupyter server
 

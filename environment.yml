@@ -1,4 +1,4 @@
-name: MLCrystals
+name: MLCrystals-tutorial
 channels:
     - defaults
 dependencies:
